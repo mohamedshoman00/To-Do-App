@@ -1,0 +1,9 @@
+.active-link {
+  text-decoration: underline;
+}
+
+nav {
+  width: 600px;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
